@@ -9,12 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@iconify-icons/devicon": "^1.2.17",
+    "@iconify-icons/fa": "^1.2.4",
+    "@iconify-icons/heroicons": "^1.2.9",
+    "@iconify-icons/material-symbols": "^1.2.58",
+    "@iconify-icons/ph": "^1.2.5",
+    "@iconify-icons/simple-icons": "^1.2.74",
+    "@iconify/react": "^5.2.0",
+    "@radix-ui/react-slider": "^1.2.3",
+    "@radix-ui/react-slot": "^1.1.2",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.6.0",
+    "html-to-image": "^1.11.13",
+    "install": "^0.13.0",
+    "lucide-react": "^0.484.0",
+    "next": "^15.2.4",
+    "next-themes": "^0.4.6",
+    "npm": "^11.2.0",
+    "postcss": "^8.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.4"
+    "reactflow": "^11.11.4",
+    "tailwind-merge": "^3.0.2",
+    "tw-animate-css": "^1.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4.0.16"
   }
 }
